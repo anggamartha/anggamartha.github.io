@@ -1,0 +1,1 @@
+var json_Bangunan_Sumber_Daya_Air_12 = {"type":"FeatureCollection","name":"Bangunan_Sumber_Daya_Air_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[108.024255716992528,-6.972559818742613]}}]}

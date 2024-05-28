@@ -1,0 +1,1 @@
+var json_Sistem_Persampahan_10 = {"type":"FeatureCollection","name":"Sistem_Persampahan_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"TPS3R"},"geometry":{"type":"Point","coordinates":[108.040375414317296,-6.992549116273866]}}]}
